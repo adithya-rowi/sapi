@@ -1,0 +1,8 @@
+.env
+*.pem
+backend/node_modules/
+.gradle/
+.idea/
+local.properties
+**/build/
+*.apk
